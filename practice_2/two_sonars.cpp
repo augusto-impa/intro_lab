@@ -1,3 +1,6 @@
+// ARDUINO SETUP A PRIORI
+// https://www.tinkercad.com/things/la3HDLfwdmA-two-sonars-measure-the-local-gravity?sharecode=e8JX84A9-a3jTBktDFe9Ualg10sMKTPgT9vHs9PWjWc
+
 // <--> CONFIGURAÇÕES <-->
 int sonars[2][2] = {
   {2, 3},
