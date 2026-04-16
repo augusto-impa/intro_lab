@@ -11,9 +11,9 @@
 <h2>Practice 2</h2>
 <p>
   The motivation of this practice is to measure the local gravity in the institution (at Rio de Janeiro, RJ, Brazil). 
-  First, leaving a object and measuring the time to fall.
+  Firstly, leaving a object and measuring the time to fall.
   Secondly, reviewing the caught data and info.
-  Third, remaking the measures but now with a arduino, a laser pointer and a LDR module.
+  Thirdly, remaking the measures but now with a arduino, a laser pointer and a LDR module.
   And the challenge project is to caught data and estimate the gravity with a Sonar Module (HC-SR04).
 </p>
   
