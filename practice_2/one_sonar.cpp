@@ -1,4 +1,6 @@
+// ARDUINO SETUP A PRIORI
 // https://www.tinkercad.com/things/igzCqjypuRp-one-sonar-measure-the-local-gravity?sharecode=cTpmCBnQSDFXFy6wpis0XhbHT21W4m1dzYUPCdWXlvI
+
 // <--> CONFIGURAÇÕES <-->
 float distancia_prox = 10; // distancia minima para começar
 float distancia_max = 100; // distancia maxima de medição
@@ -9,6 +11,9 @@ int trig_pin = 4; // pino trig do sonar
 int echo_pin = 3; // pino echo do sonar
 // <--> CONFIGURAÇÕES <-->
 
+//
+
+// codigo foda abaixo
 float measure_cm(float t = 10){ // define the function to measure a sonar
   float duration, distance;
 
